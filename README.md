@@ -3,10 +3,7 @@
 <h1 align="left">Hi 👋, I'm jisun</h1>
 <h3 align="left">I am a developer who takes on various challenges.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=js-lee05" alt="js-lee05" /></a> </p>
-
 - 🌱 I’m currently learning **bioinformatics, ML/DL, etc..**
-
 - 📫 How to reach me **leejs7186@naver.com**
 
 <p align="left">
